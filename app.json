@@ -2,7 +2,7 @@
   "name": "RIFAL-MUSICBOT",
   "description": "Open Source bot to stream media trough Telegram Voice Chat. Powered by PyTgCalls and Pyrogram",
   "keywords": ["rifal", "musicbot", "video-stream", "videochat", "voicechat", "telegram"],
-  "repository": "https://github.com/RifalInHere/RIFAL-MUSICBOT",
+  "repository": "https://github.com/DoellBarr/solidmusic",
   "stack": "container",
   "env": {
     "API_ID": {
